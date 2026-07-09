@@ -214,15 +214,15 @@ C/
 
 After completing all programs, you will be able to:
 
-- ✅ Understand pointers thoroughly
-- ✅ Master dynamic memory allocation
-- ✅ Implement all fundamental data structures
-- ✅ Analyze Time Complexity
-- ✅ Analyze Space Complexity
-- ✅ Write efficient C programs
-- ✅ Improve logical thinking
-- ✅ Prepare for coding interviews
-- ✅ Build a strong GitHub portfolio
+-  Understand pointers thoroughly
+-  Master dynamic memory allocation
+-  Implement all fundamental data structures
+-  Analyze Time Complexity
+-  Analyze Space Complexity
+-  Write efficient C programs
+-  Improve logical thinking
+-  Prepare for coding interviews
+-  Build a strong GitHub portfolio
 
 ---
 

@@ -21,7 +21,7 @@ The last node's next pointer is `NULL`, indicating the end of the list.
 
 Visualization:
 head → [11|→] → [21|→] → [51|NULL]
-        node1    node2     node3
+        node1    node2     node3 
 
 ---
 

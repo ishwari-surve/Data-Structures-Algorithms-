@@ -42,8 +42,8 @@ typedef struct node **PPNODE;
 
 ### Why #pragma pack(1)?
 
-**Without pragma:** 16 bytes per node (4 bytes wasted padding)
-**With pragma:** 12 bytes per node (0 bytes wasted)
+-**Without pragma:** 16 bytes per node (4 bytes wasted padding)
+-**With pragma:** 12 bytes per node (0 bytes wasted)
 
 ---
 

@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Singly Linked List - Pointer Addresses & Dereferencing
+Program Name    : Singly Linked List - Pointer Addresses & Dereferencing 
 Program Number  : 005
 Description     : This program demonstrates how pointers connect two nodes
                   by storing their virtual memory addresses. It explains

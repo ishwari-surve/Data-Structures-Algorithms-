@@ -53,11 +53,13 @@ The programs in this folder are arranged in a logical sequence to provide step-b
 
 ### Program Progression
 
-| Program | Topic | Concepts Covered |
-|---------|-------|-----------------|
-| 001-011 | Foundation | Structure, pointers, linking basics |
-| 012-016 | Functions | Display, Count, traversal patterns |
-| 367 | Complete | All 8 operations together |
+| Phase | Program Files | Key Concepts |
+|-------|---------------|--------------|
+| **Foundation** | SinglyLL001-011 | Node structure, pointers, memory layout, linking |
+| **Functions** | SinglyLL012-016 | Traversal patterns, display, count operations |
+| **Advanced** | SinglyLL017+ | Insertion, deletion, searching, utility functions |
+
+**Note:** Programs continue to be added as topics expand.
 
 ---
 

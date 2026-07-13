@@ -189,7 +189,6 @@ Note: Programs continue to be added as topics expand.
 ## Learning Outcomes
 
 After completing the programs in this folder, you will be able to:
-
 - Understand the internal working of a Doubly Linked List.
 - Implement insertion and deletion operations efficiently.
 - Perform both forward and backward traversal.

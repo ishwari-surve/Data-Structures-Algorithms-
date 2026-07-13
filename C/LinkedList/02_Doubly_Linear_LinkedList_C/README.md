@@ -73,53 +73,54 @@ Note: Programs continue to be added as topics expand.
 -----
 
 ## Topics Covered
-### Basic Concepts
+## Basic Concepts
 
--Node Structure
--Self-Referential Structure
--Memory Layout
--Structure Packing using #pragma pack(1)
--Dynamic Memory Allocation with malloc()
--Node Creation
--Node Initialization
--Previous Pointer Handling
--Next Pointer Handling
--Pointer Traversal
--Pointer Types (PNODE, PPNODE)
+- Node Structure
+- Self-Referential Structure
+- Memory Layout
+- Structure Packing using `#pragma pack(1)`
+- Dynamic Memory Allocation with `malloc()`
+- Node Creation
+- Node Initialization
+- Previous Pointer Handling
+- Next Pointer Handling
+- Pointer Traversal
+- Pointer Types (`PNODE`, `PPNODE`)
 
------
+---
 
-###  Traversal Operations
+## Traversal Operations
 
--Forward Traversal
--Backward Traversal
--Display Linked List
--Count Nodes
+- Forward Traversal
+- Backward Traversal
+- Display Linked List - **O(n)**
+- Count Nodes - **O(n)**
 
------
+---
 
-### Insertion Operations
+## Insertion Operations
 
--Insert First - O(1)
--Insert Last - O(n)
--Insert At Position - O(n)
+- Insert First - **O(1)**
+- Insert Last - **O(n)**
+- Insert At Position - **O(n)**
 
------
+---
 
-### Deletion Operations
+## Deletion Operations
 
--Delete First - O(1)
--Delete Last - O(n)
--Delete At Position - O(n)
+- Delete First - **O(1)**
+- Delete Last - **O(n)**
+- Delete At Position - **O(n)**
 
------
+---
 
-### Utility Operations
--Display Linked List - O(n)
--Count Nodes - O(n)
--Search Element - O(n)
--Forward Traversal - O(n)
--Reverse Traversal - O(n)
+## Utility Operations
+
+- Display Linked List - **O(n)**
+- Count Nodes - **O(n)**
+- Search Element - **O(n)**
+- Forward Traversal - **O(n)**
+- Reverse Traversal - **O(n)**
 
 -----
 

@@ -37,9 +37,10 @@ typedef struct node *PNODE;
 typedef struct node **PPNODE;
 
 ### Why #pragma pack(1)?
-Without pragma: 24 bytes per node (padding added by compiler)
-With pragma: 20 bytes per node (padding removed)
-Helps reduce memory wastage
+
+-Without pragma: 24 bytes per node (padding added by compiler)
+-With pragma: 20 bytes per node (padding removed)
+-Helps reduce memory wastage
 
 -----
 
@@ -73,6 +74,7 @@ Note: Programs continue to be added as topics expand.
 
 ## Topics Covered
 ### Basic Concepts
+
 -Node Structure
 -Self-Referential Structure
 -Memory Layout
@@ -88,6 +90,7 @@ Note: Programs continue to be added as topics expand.
 -----
 
 ###  Traversal Operations
+
 -Forward Traversal
 -Backward Traversal
 -Display Linked List
@@ -96,6 +99,7 @@ Note: Programs continue to be added as topics expand.
 -----
 
 ### Insertion Operations
+
 -Insert First - O(1)
 -Insert Last - O(n)
 -Insert At Position - O(n)
@@ -103,6 +107,7 @@ Note: Programs continue to be added as topics expand.
 -----
 
 ### Deletion Operations
+
 -Delete First - O(1)
 -Delete Last - O(n)
 -Delete At Position - O(n)
@@ -119,33 +124,36 @@ Note: Programs continue to be added as topics expand.
 -----
 
 ## Concepts Covered
--Structures
--Self-Referential Structures
--Pointers
--Pointer Manipulation
--Dynamic Memory Allocation
--Memory Management
--Bidirectional Linking
--Forward Traversal
--Backward Traversal
--Modular Programming
--Time and Space Complexity Analysis
 
------
+- Structures
+- Self-Referential Structures
+- Pointers
+- Pointer Manipulation
+- Dynamic Memory Allocation
+- Memory Management
+- Bidirectional Linking
+- Forward Traversal
+- Backward Traversal
+- Modular Programming
+- Time and Space Complexity Analysis
+
+---
 
 ## Advantages
--Supports traversal in both directions
--Easier insertion and deletion operations
--Previous node is directly accessible
--Better flexibility than Singly Linked List
--Useful for navigation-based applications
 
------
+- Supports traversal in both directions
+- Easier insertion and deletion operations
+- Previous node is directly accessible
+- Better flexibility than Singly Linked List
+- Useful for navigation-based applications
+
+---
 
 ## Disadvantages
--Requires extra memory for the previous pointer
--More pointer manipulation
--Slightly more complex implementation
+
+- Requires extra memory for the previous pointer
+- More pointer manipulation
+- Slightly more complex implementation
 
 -----
 

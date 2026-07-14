@@ -60,7 +60,7 @@ The programs in this folder are arranged in a logical sequence to provide step-b
 ### **Program Progression**
 
 | Phase | | Key Concepts |
-|--------|---------------|--------------|
+|--------|---------------|
 | **Foundation**  | Class, Object, Node Structure, References |
 | **Functions**  | Display(), Count(), Constructors |
 | **Intermediate**  | Insert Operations |

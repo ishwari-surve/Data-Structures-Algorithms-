@@ -59,12 +59,15 @@ The programs in this folder are arranged in a logical sequence to provide step-b
 
 ### **Program Progression**
 
-| Phase | | Key Concepts |
-|--------|---------------|
-| **Foundation**  | Class, Object, Node Structure, References |
-| **Functions**  | Display(), Count(), Constructors |
-| **Intermediate**  | Insert Operations |
-| **Advanced**  | Delete Operations, Searching, Utility Functions |
+### **Program Progression**
+
+| Phase | Key Concepts |
+|--------|--------------|
+| **Foundation** | Classes, Objects, Node Structure, Object References |
+| **Core Functions** | Constructors, Display(), Count(), Basic Traversal |
+| **Insertion Operations** | InsertFirst(), InsertLast(), InsertAtPos() |
+| **Deletion Operations** | DeleteFirst(), DeleteLast(), DeleteAtPos() |
+| **Advanced Concepts** | Searching, Utility Functions, Problem Solving, Complexity Analysis |
 
 > **Note:** Programs continue to be added as new topics are covered.
 

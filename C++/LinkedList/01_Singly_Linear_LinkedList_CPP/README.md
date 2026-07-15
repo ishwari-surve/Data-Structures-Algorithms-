@@ -76,11 +76,13 @@ The programs in this folder are arranged in a logical sequence to provide step-b
 
 ## Program Progression
 
-| Phase |  | Key Concepts |
-|--------|---------------|
-| Foundation  | Classes, Objects, Node Creation, Constructors |
-| Basic Operations  | Insertions, Display, Count |
-| Advanced Operations | Deletions, Position-wise Operations, Menu Driven Program |
+## Program Progression
+
+| Phase | Key Concepts |
+|--------|--------------|
+| Foundation | Classes, Objects, Constructors, Node Creation, Dynamic Memory Allocation |
+| Basic Operations | InsertFirst, InsertLast, Display, Count |
+| Advanced Operations | Delete Operations, Position-wise Operations, Complete Menu-Driven Implementation |
 
 > **Note:** Programs will continue to be added as more DSA concepts are covered.
 

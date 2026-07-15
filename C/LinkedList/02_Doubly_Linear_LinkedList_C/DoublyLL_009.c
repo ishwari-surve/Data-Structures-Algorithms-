@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Doubly Linear Linked List - Position Validation Framework
+Program Name    : Doubly Linear Linked List - Position Validation Framework 
 Program Number  : 009
 Description     : This program extends the Doubly Linear Linked List by
                   introducing position validation for InsertAtPos() and

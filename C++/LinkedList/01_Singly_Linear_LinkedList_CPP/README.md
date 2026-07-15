@@ -77,7 +77,7 @@ The programs in this folder are arranged in a logical sequence to provide step-b
 ## Program Progression
 
 | Phase |  | Key Concepts |
-|--------|---------------|--------------|
+|--------|---------------|
 | Foundation  | Classes, Objects, Node Creation, Constructors |
 | Basic Operations  | Insertions, Display, Count |
 | Advanced Operations | Deletions, Position-wise Operations, Menu Driven Program |

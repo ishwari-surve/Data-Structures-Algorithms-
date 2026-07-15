@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Doubly Linear Linked List - InsertAtPos Operation
+Program Name    : Doubly Linear Linked List - InsertAtPos Operation 
 Program Number  : 010
 Description     : This program extends the Doubly Linear Linked List by
                   implementing the InsertAtPos() operation. It allows a

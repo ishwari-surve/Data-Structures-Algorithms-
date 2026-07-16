@@ -5,7 +5,7 @@ Program Number  : 002
 Description     : This program demonstrates removing structure padding using
                   #pragma pack(1). Shows memory layout without compiler padding
                   on a 64-bit system.
-Date            : July 2026
+Date            : July 2026 
 Language        : C
 Author          : Ishwari Vijaykumar Surve
 ================================================================================

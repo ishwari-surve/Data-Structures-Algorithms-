@@ -4,7 +4,7 @@ Program Name    : Singly Linked List - Pointer Addresses & Dereferencing
 Program Number  : 005
 Description     : This program demonstrates how pointers connect two nodes
                   by storing their virtual memory addresses. It explains
-                  node linking, pointer dereferencing, and traversal
+                  node linking, pointer dereferencing, and traversal 
                   using the arrow (->) operator.
 Date            : July 2026
 Language        : C

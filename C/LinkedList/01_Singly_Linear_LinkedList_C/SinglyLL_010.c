@@ -5,7 +5,7 @@ Program Number  : 010
 Description     : This program introduces the TEMP pointer concept. TEMP is a
                   temporary pointer used to traverse the linked list without
                   changing the original HEAD pointer. HEAD always points to the
-                  first node, while TEMP moves through nodes during traversal.
+                  first node, while TEMP moves through nodes during traversal. 
 Date            : July 2026
 Language        : C
 Author          : Ishwari Vijaykumar Surve

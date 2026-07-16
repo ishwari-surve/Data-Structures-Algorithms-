@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Singly Linked List - Manual Node-by-Node Traversal
+Program Name    : Singly Linked List - Manual Node-by-Node Traversal 
 Program Number  : 011
 Description     : This program demonstrates manual traversal of linked list
                   using TEMP pointer. Shows step-by-step movement through each

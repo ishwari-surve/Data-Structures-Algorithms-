@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Singly Linked List - PNODE Pointer Type Alias
+Program Name    : Singly Linked List - PNODE Pointer Type Alias 
 Program Number  : 009
 Description     : This program introduces PNODE typedef, which is an alias for
                   "pointer to NODE". Creates cleaner and more professional code

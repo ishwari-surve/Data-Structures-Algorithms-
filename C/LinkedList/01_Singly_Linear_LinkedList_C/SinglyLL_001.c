@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Singly Linked List - Node Structure & Memory Layout
+Program Name    : Singly Linked List - Node Structure & Memory Layout 
 Program Number  : 001
 Description     : This program demonstrates the creation of a singly linked list
                   node structure in C. It explains the memory layout, structure

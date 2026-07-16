@@ -2,7 +2,7 @@
 ================================================================================
 Program Name    : Singly Linked List - typedef for Structures
 Program Number  : 008
-Description     : This program demonstrates the use of the typedef keyword to
+Description     : This program demonstrates the use of the typedef keyword to 
                   create an alias for the node structure. Using NODE instead
                   of "struct node" improves code readability, reduces
                   repetitive declarations, and follows professional C

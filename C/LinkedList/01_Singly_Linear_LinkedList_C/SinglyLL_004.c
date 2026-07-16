@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Singly Linked List - Linking Two Nodes
+Program Name    : Singly Linked List - Linking Two Nodes 
 Program Number  : 004
 Description     : This program demonstrates the creation of two nodes and
                   linking them together using pointers. Shows how nodes are

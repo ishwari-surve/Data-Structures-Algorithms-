@@ -3,7 +3,7 @@
 Program Name    : Singly Linked List - Defensive Programming Style
 Program Number  : 027
 Description     : This program demonstrates the defensive programming style by using
-                  NULL == *first instead of *first == NULL while checking whether the
+                  NULL == *first instead of *first == NULL while checking whether the 
                   linked list is empty. InsertFirst() inserts nodes at the beginning,
                   InsertLast() inserts nodes at the end, Display() prints the list,
                   and Count() returns the total number of nodes.

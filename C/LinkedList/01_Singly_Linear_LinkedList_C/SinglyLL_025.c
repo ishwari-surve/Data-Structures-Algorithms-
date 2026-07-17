@@ -4,7 +4,7 @@ Program Name : Singly Linked List - Traversal Using Implicit NULL Check
 Program Number  : 025
 Description     : This program demonstrates the use of cleaner
                   traversal syntax using while(first) instead of
-                  while(first != NULL). It implements Display(),
+                  while(first != NULL). It implements Display(), 
                   Count(), and InsertFirst() functions to build,
                   display, and count nodes in a singly linked list.
 Date            : July 2026

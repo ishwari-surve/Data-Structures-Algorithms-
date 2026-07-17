@@ -1,7 +1,7 @@
 /*
 ================================================================================
 Program Name    : Singly Linked List - Count Function Implementation
-Program Number  : 024
+Program Number  : 024 
 Description     : This program implements the Count() function to determine
                   the total number of nodes in a singly linked list.
                   Display() prints the linked list using enhanced

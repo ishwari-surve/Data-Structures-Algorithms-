@@ -3,7 +3,7 @@
 Program Name    : Singly Linked List - InsertFirst Function Implementation
 Program Number  : 021
 Description     : This program demonstrates how to insert a new node at the
-                  beginning of a singly linked list using the InsertFirst()
+                  beginning of a singly linked list using the InsertFirst() 
                   function. A new node is dynamically created using malloc(),
                   initialized with the given data, and linked as the new first
                   node of the list.

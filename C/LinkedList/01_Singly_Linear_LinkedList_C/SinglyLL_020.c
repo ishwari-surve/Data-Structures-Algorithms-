@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Singly Linked List - Function Templates and Declarations
+Program Name    : Singly Linked List - Function Templates and Declarations 
 Program Number  : 020
 Description     : This program provides function templates and declarations for
                   all 8 core linked list operations. Contains empty function

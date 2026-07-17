@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Singly Linked List - Display with Enhanced Formatting
+Program Name    : Singly Linked List - Display with Enhanced Formatting 
 Program Number  : 023
 Description     : This program implements Display() with improved visual
                   formatting showing chain structure. InsertFirst adds nodes

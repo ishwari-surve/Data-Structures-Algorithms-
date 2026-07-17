@@ -2,7 +2,7 @@
 ================================================================================
 Program Name    : Singly Linked List - Count Function
 Program Number  : 015
-Description     : This program demonstrates how to count the total number of
+Description     : This program demonstrates how to count the total number of 
                   nodes in a singly linked list using a separate Count()
                   function. The HEAD pointer is passed to the function, which
                   traverses the linked list and returns the total node count

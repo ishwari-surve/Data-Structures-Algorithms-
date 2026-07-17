@@ -1,7 +1,7 @@
 /*
 ================================================================================
 Program Name    : Singly Linked List - Combined typedef Definition
-Program Number  : 019
+Program Number  : 019 
 Description     : This program demonstrates an alternative typedef syntax where
                   NODE, PNODE, and PPNODE are all defined in a single typedef
                   statement. This is a cleaner and more professional approach

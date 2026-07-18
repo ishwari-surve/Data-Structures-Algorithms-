@@ -3,7 +3,7 @@
 Program Name    : Complete Singly Circular Linked List
 Program Number  : 016 
 Description     : This program demonstrates the complete implementation of a
-                  Singly Circular Linked List in Java. It supports insertion,
+                  Singly Circular Linked List in Java. It supports insertion, 
                   deletion, display and count operations, including position-
                   based insertion and deletion while maintaining the circular
                   structure of the linked list.

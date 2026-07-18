@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : InsertFirst() and InsertLast() in Singly Circular Linked List
 Program Number  : 010
-Description     : This program demonstrates the implementation of
+Description     : This program demonstrates the implementation of 
                   InsertFirst() and InsertLast() operations in a
                   Singly Circular Linked List using Java.
 

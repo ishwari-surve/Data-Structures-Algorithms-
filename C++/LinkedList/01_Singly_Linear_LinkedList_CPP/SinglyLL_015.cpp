@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : DeleteLast Operation in Singly Linked List
 Program Number  : 015
-Description     : This program demonstrates the DeleteLast() operation of a
+Description     : This program demonstrates the DeleteLast() operation of a 
                   Singly Linked List. The program removes the last node from
                   the linked list while handling all possible cases such as 
                   an empty list, a single-node list, and a list containing

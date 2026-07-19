@@ -4,7 +4,7 @@ Program Name    : Display Using FOR Loop in Singly Linked List
 Program Number  : 013
 Description     : This program demonstrates an alternative method of
                   traversing a Singly Linked List using a FOR loop
-                  instead of the traditional WHILE loop.
+                  instead of the traditional WHILE loop. 
 
                   The Display() function uses the node counter
                   (iCount) to control traversal and displays every

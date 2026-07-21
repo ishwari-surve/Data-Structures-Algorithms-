@@ -4,7 +4,7 @@ Program Name    : Singly Circular Linked List - Display Function
 Program Number  : 011
 Description     : This program implements the Display() function for a Singly
                   Circular Linked List. It traverses the list from the first
-                  node and displays all elements until it reaches the first
+                  node and displays all elements until it reaches the first 
                   node again.
 
 Date            : July 2026

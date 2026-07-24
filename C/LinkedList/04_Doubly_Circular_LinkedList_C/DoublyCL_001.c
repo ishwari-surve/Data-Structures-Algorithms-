@@ -3,7 +3,7 @@
 Program Name    : Doubly Circular Linked List - Node Structure and Memory Size
 Program Number  : 001
 Description     : This program introduces the basic node structure used in a
-                  Doubly Circular Linked List. It demonstrates the creation
+                  Doubly Circular Linked List. It demonstrates the creation 
                   of a self-referential structure containing data, next, and
                   previous pointers, and displays the memory occupied by a
                   single node using the sizeof operator.

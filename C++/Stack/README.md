@@ -20,17 +20,60 @@ A **Stack** is a linear data structure where:
 - **Efficient Operations:** Push and Pop execute in **O(1)** time complexity
 - **Real-World Analogy:** Like a stack of plates - add/remove from top only
 
-### Visual Representation
-┌─────────┐
-    │   Top → │ (Most Recent)
-    ├─────────┤
-    │  Data   │
-    ├─────────┤
-    │  Data   │
-    ├─────────┤
-    │  Data   │
-    └─────────┘
-    (Oldest)
+## 📊 Visual Representation
+
+```
+                TOP
+                 │
+                 ▼
+            +---------+
+            |   50    |  ← Last Inserted
+            +---------+
+            |   40    |
+            +---------+
+            |   30    |
+            +---------+
+            |   20    |
+            +---------+
+            |   10    |  ← First Inserted
+            +---------+
+
+        Push()  ↑
+        Pop()   ↓
+
+        LIFO (Last-In-First-Out)
+```
+
+**Example:**
+
+```
+Push(10)
+Push(20)
+Push(30)
+Push(40)
+Push(50)
+
+Stack:
+TOP
+ │
+ ▼
+50
+40
+30
+20
+10
+
+Pop()
+
+TOP
+ │
+ ▼
+40
+30
+20
+10
+```
+
 
 ##  Stack Node Structure
 

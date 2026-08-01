@@ -112,9 +112,9 @@ typedef struct node **PPNODE;
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🎯 Core Functionality
+###  Core Functionality
 
 - **Dynamic Stack Creation** using dynamic memory allocation (`malloc`).
 - **Push Operation** – Inserts an element at the top of the stack in **O(1)** time.

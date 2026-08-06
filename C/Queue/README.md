@@ -1,4 +1,4 @@
-# 📚 Queue
+#  Queue in C
 
 ## **Overview**
 
@@ -8,7 +8,7 @@ A **Queue** is a fundamental linear data structure that follows the **FIFO (Firs
 
 ---
 
-# 🎯 What is a Queue?
+#  What is a Queue?
 
 ## **Definition**
 
@@ -22,7 +22,7 @@ A **Queue** is a linear data structure where:
 
 ---
 
-# 📌 Visual Representation
+#  Visual Representation
 
 ```text
 Front                        Rear
@@ -33,7 +33,7 @@ Front                        Rear
 ```
 ---
 
-# 🧩 Node Structure
+#  Node Structure
 
 ```c
 struct node
@@ -57,7 +57,7 @@ typedef struct node** PPNODE;
 
 ---
 
-# ⚙️ Operations Implemented
+#  Operations Implemented
 
 - Enqueue
 - Dequeue
@@ -66,7 +66,7 @@ typedef struct node** PPNODE;
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
 - Dynamic Queue Implementation
 - FIFO Implementation
@@ -79,7 +79,7 @@ typedef struct node** PPNODE;
 
 ---
 
-# 💡 Applications
+#  Applications
 
 - CPU Scheduling
 - Printer Queue
@@ -92,7 +92,7 @@ typedef struct node** PPNODE;
 
 ---
 
-# 🎓 Learning Outcomes
+#  Learning Outcomes
 
 - Understand FIFO principle
 - Learn Queue operations
@@ -103,7 +103,7 @@ typedef struct node** PPNODE;
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - C Programming Language
 - GCC Compiler
@@ -113,7 +113,7 @@ typedef struct node** PPNODE;
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Ishwari Vijaykumar Surve**
 

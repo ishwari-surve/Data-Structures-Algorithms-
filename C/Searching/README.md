@@ -46,7 +46,8 @@ Searching
 -Database searching
 -Information retrieval
 -Checking whether an element exists
--Key Learning Points
+
+## Key Learning Points
 -Understand the basic concept of searching.
 -Learn how Linear Search works.
 -Understand Bi-Directional Search.

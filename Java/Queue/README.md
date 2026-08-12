@@ -48,7 +48,6 @@ This folder contains programs that demonstrate the fundamental concepts of **Que
 
 ## Structure
 
-```text
 Queue
 │
 ├── Queue Concept
@@ -100,7 +99,6 @@ Queue
 
 ## Node Structure
 
-```text
         Node
    +-------------+
    |    data     |

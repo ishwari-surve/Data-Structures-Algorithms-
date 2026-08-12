@@ -40,20 +40,22 @@ Searching
     └── Space Complexity
     
 ## Applications
--Searching records in arrays
--Finding a particular element
--Data lookup
--Database searching
--Information retrieval
--Checking whether an element exists
+
+- Searching records in arrays
+- Finding a particular element
+- Data lookup
+- Database searching
+- Information retrieval
+- Checking whether an element exists
 
 ## Key Learning Points
--Understand the basic concept of searching.
--Learn how Linear Search works.
--Understand Bi-Directional Search.
--Compare searching techniques.
--Analyze time and space complexity.
--Determine whether an element is present in a collection.
+
+- Understand the basic concept of searching.
+- Learn how Linear Search works.
+- Understand Bi-Directional Search.
+- Compare searching techniques.
+- Analyze time and space complexity.
+- Determine whether an element is present in a collection.
 
 ## Requirements
 -C Compiler (GCC / Clang / MSVC)

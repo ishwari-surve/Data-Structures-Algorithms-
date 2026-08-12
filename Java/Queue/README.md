@@ -47,7 +47,7 @@ This folder contains programs that demonstrate the fundamental concepts of **Que
 - Connecting One Node to the Next Node
 
 ## Structure
-
+```text
 Queue
 │
 ├── Queue Concept
@@ -73,6 +73,19 @@ Queue
 └── Queue Analysis
     ├── Time Complexity
     └── Space Complexity
+```
+
+## Node Structure
+
+```text
+        Node
+   +-------------+
+   |    data     |
+   +-------------+
+   |    next     | -----> Reference to next Node
+   +-------------+
+
+```
 
 ## Applications
 
@@ -96,15 +109,6 @@ Queue
 - Understand the role of Front and Rear positions.
 - Analyze time and space complexity.
 - Understand dynamic memory allocation through Java objects.
-
-## Node Structure
-
-        Node
-   +-------------+
-   |    data     |
-   +-------------+
-   |    next     | -----> Reference to next Node
-   +-------------+
 
 ## Requirements
 

@@ -46,30 +46,6 @@ This folder contains programs that demonstrate the fundamental concepts of **Que
 - Linking Nodes using References
 - Connecting One Node to the Next Node
 
-          Queue Node
-     +----------------+
-     |      data      |
-     +----------------+
-     |      next      | -----> Reference to next Node
-     +----------------+
-
-  class Node
-{
-    int data;
-    Node next;
-
-}
-
-## Queue Representation
-FRONT                                      REAR
-  |                                          |
-  v                                          v
-+------+-------+    +------+-------+    +------+-------+
-|  11  |   o-------->|  21  |   o-------->|  51  | NULL |
-+------+-------+    +------+-------+    +------+-------+
-
-        Dequeue  <-------------------  Enqueue
-
 ## Structure
 
 ```text

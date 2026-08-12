@@ -77,29 +77,36 @@ Queue
 
 ## Applications
 
-- Process scheduling
-- Printer job management
-- CPU task scheduling
-- Keyboard and I/O buffering
-- Network packet handling
+- CPU scheduling
+- Printer job scheduling
+- Task scheduling
 - Breadth First Search (BFS)
-- Customer service systems
-- Request processing
-- Message processing
-- Task management
+- Buffer management
+- Network packet processing
+- Request handling
+- Resource management
 
 ## Key Learning Points
 
 - Understand the basic concept of Queue.
-- Understand the FIFO principle.
-- Learn the role of Front and Rear.
-- Understand the structure of a Queue node.
-- Learn how Enqueue operation works.
-- Learn how Dequeue operation works.
-- Implement Queue using arrays and linked lists.
-- Understand how nodes are connected using references.
-- Handle empty Queue conditions.
+- Learn the FIFO (First In First Out) principle.
+- Understand how a Queue can be implemented using a linked list.
+- Learn how nodes are created using classes in Java.
+- Understand object references in Java.
+- Learn Enqueue and Dequeue operations.
+- Understand the role of Front and Rear positions.
 - Analyze time and space complexity.
+- Understand dynamic memory allocation through Java objects.
+
+## Node Structure
+
+```text
+        Node
+   +-------------+
+   |    data     |
+   +-------------+
+   |    next     | -----> Reference to next Node
+   +-------------+
 
 ## Requirements
 

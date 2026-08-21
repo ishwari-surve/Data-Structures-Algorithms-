@@ -1,6 +1,6 @@
 /* 
 =============================================================================== 
-Program Name    : Binary Search Tree - Inorder Traversal 
+Program Name    : Binary Search Tree - Inorder Traversal  
 Program Number  : 03 
 File Name       : Tree_03.java 
  

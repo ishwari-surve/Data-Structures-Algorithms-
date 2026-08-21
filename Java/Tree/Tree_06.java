@@ -1,7 +1,7 @@
 /* 
 =============================================================================== 
 Program Name    : Binary Search Tree - Search Element 
-Program Number  : 06 
+Program Number  : 06  
 File Name       : Tree_06.java 
  
 Description     : This program demonstrates how to search an element in a 

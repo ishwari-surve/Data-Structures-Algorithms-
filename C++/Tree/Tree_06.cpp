@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Binary Search Tree - Postorder Traversal
 Program Number  : 06
-File Name       : Tree_06.cpp
+File Name       : Tree_06.cpp 
 Description     : This program implements Postorder Traversal of a Binary
                   Search Tree using C++. Postorder Traversal visits the
                   nodes in Left, Right, Data (LRD) order.

@@ -1,7 +1,7 @@
 /* 
 =============================================================================== 
 Program Name    : Binary Search Tree - Count Total Nodes 
-Program Number  : 07 
+Program Number  : 07  
 File Name       : Tree_07.java 
  
 Description     : This program demonstrates how to count the total number 

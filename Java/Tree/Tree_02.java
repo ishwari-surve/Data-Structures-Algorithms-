@@ -1,6 +1,6 @@
 /* 
 =============================================================================== 
-Program Name    : Binary Search Tree - Insert Elements 
+Program Name    : Binary Search Tree - Insert Elements  
 Program Number  : 02 
 File Name       : Tree_02.java 
  

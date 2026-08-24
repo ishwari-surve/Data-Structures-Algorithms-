@@ -5,7 +5,7 @@ Program Number  : 06
 File Name       : Stack_06.java
 
 Description     : This program implements the Peep operation of a Stack using
-                  a singly linear linked list. The Peep operation returns the
+                  a singly linear linked list. The Peep operation returns the 
                   topmost element of the Stack without removing it.
 
 Date            : August 2026

@@ -1,7 +1,7 @@
 /*
 ===============================================================================
 Program Name    : Searching - Linear Search
-Program Number  : 04
+Program Number  : 04 
 File Name       : Searching_04.java
 
 Description     : This program accepts elements from the user, displays the

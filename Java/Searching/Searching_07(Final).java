@@ -1,7 +1,7 @@
 /*
 ===============================================================================
 
-Program Name    : Searching - Menu Driven Application
+Program Name    : Searching - Menu Driven Application 
 Program Number  : 07
 File Name       : Searching_07.java
 

@@ -1,7 +1,7 @@
 /*
 ===============================================================================
 Program Name    : Searching - Display Elements
-Program Number  : 03
+Program Number  : 03 
 File Name       : Searching_03.java
 
 Description     : This program accepts integer elements from the user and

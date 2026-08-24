@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Searching - Accept Elements
 Program Number  : 02
-File Name       : Searching_02.java
+File Name       : Searching_02.java 
 
 Description     : This program accepts integer elements from the user and
                   stores them in an array using the Searching class.

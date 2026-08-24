@@ -3,7 +3,7 @@
 Program Name    : Stack - Pop Operation
 Program Number  : 05
 File Name       : Stack_05.java
-
+ 
 Description     : This program implements the Pop operation of a Stack using
                   a singly linear linked list. The Pop operation removes the
                   top element from the Stack and returns its value.

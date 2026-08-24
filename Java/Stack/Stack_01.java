@@ -7,7 +7,7 @@ File Name       : Stack_01.java
 Description     : This program demonstrates the basic structure of a Stack
                   using Java. It defines the node class, Stack class,
                   constructor, and initializes an empty Stack.
-
+ 
 Date            : August 2026
 Language        : Java
 Author          : Ishwari Vijaykumar Surve

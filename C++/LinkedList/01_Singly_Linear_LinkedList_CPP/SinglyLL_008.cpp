@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Singly Linked List using Scope Resolution Operator
+Program Name    : Singly Linked List using Scope Resolution Operator 
 Program Number  : 008 
 Description     : This program demonstrates how member functions of a Singly
                   Linked List class can be declared inside the class and

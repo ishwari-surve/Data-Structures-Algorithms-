@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Singly Linked List Class Framework
+Program Name    : Singly Linked List Class Framework 
 Program Number  : 007 (C++ Version)
 Description     : This program defines the complete framework of a Singly
                   Linked List class. It introduces all the essential member

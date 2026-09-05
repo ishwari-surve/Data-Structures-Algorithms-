@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Searching - Linear Search and Bi-Directional Search
+Program Name    : Searching - Linear Search and Bi-Directional Search 
 Program Number  :  06
 File Name       : Searching_06.java
 

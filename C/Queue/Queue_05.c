@@ -1,5 +1,5 @@
 /*
-===============================================================================
+=============================================================================== 
 Program Name    : Queue Using Singly Linear Linked List - Dequeue Operation
 Program Number  : 005
 File Name       : Queue_05.c

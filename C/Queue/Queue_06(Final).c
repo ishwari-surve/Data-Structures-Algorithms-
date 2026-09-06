@@ -1,6 +1,6 @@
  /*
 ===============================================================================
-Program Name    : Queue Using Singly Linear Linked List - Menu Driven
+Program Name    : Queue Using Singly Linear Linked List - Menu Driven 
 Program Number  : 006
 File Name       : Queue_06.c
 

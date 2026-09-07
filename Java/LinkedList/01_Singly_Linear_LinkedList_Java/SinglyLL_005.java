@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Singly Linear Linked List - Traversal Using Temporary Reference
+Program Name    : Singly Linear Linked List - Traversal Using Temporary Reference 
 Program Number  : 005
 File Name       : SinglyLL005.java
 

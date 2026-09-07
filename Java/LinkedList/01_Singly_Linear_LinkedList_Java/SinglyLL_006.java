@@ -2,7 +2,7 @@
 ================================================================================
 Program Name    : Singly Linear Linked List - Traversal Using While Loop
 Program Number  : 006 
-Description     : This program demonstrates traversal of a Singly
+Description     : This program demonstrates traversal of a Singly 
                   Linear Linked List using a while loop.
                   Three node objects are created manually, linked
                   together using next references, and displayed by

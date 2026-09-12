@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Searching - Accept and Display Array Elements
 Program Number  : 002
-File Name       : Searching_02.cpp
+File Name       : Searching_02.cpp 
 
 Description     : This program demonstrates the Accept() and Display()
                   functions of the Searching class. The Accept() function

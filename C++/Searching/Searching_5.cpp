@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Complete Searching
 Program Number  : 005
-File Name       : Searching_05.cpp
+File Name       : Searching_05.cpp 
 
 Description     : This program implements searching operations on a dynamically
                   allocated array. It accepts and displays array elements and

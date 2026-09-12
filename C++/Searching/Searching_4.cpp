@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Searching - Bi-Directional Search
+Program Name    : Searching - Bi-Directional Search 
 Program Number  : 004
 File Name       : Searching_04.cpp
 

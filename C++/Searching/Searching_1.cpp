@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Searching Using Dynamic Array - Basic Class Structure
+Program Name    : Searching Using Dynamic Array - Basic Class Structure 
 Program Number  : 001
 File Name       : Searching_01.cpp
 

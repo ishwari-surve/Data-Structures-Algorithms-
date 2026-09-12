@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Menu Driven Searching
 Program Number  : 006
-File Name       : Searching_06.cpp
+File Name       : Searching_06.cpp 
 
 Description     : This program implements a menu driven Searching Application
                   using a dynamically allocated array. It provides options to

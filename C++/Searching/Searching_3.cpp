@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Searching - Linear Search
 Program Number  : 003
-File Name       : Searching_03.cpp
+File Name       : Searching_03.cpp 
 
 Description     : This program demonstrates the Linear Search technique
                   using a dynamically allocated array. The program accepts

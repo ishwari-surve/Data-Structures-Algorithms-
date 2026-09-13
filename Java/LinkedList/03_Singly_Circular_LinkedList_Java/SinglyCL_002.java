@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Creation and Linking of Three Nodes in Singly Circular Linked List
 Program Number  : 002
-Description     : This program demonstrates the creation of three nodes using
+Description     : This program demonstrates the creation of three nodes using 
                   the default constructor in Java. The data members are
                   initialized separately, and the nodes are linked together
                   using reference variables to form a simple linked list.

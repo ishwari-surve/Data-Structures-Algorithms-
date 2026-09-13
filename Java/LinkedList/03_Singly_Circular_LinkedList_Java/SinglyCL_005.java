@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Traversing a Singly Circular Linked List
 Program Number  : 005
-Description     : This program demonstrates the traversal of a Singly Circular
+Description     : This program demonstrates the traversal of a Singly Circular 
                   Linked List in Java. Three nodes are created dynamically and
                   connected in a circular manner. A temporary reference is used
                   to traverse the list by moving from one node to the next.

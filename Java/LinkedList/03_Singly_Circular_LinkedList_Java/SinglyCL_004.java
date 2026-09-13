@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Creation of Singly Circular Linked List using Head Pointer
 Program Number  : 004
-Description     : This program demonstrates the creation of a Singly Circular
+Description     : This program demonstrates the creation of a Singly Circular 
                   Linked List using a head pointer in Java. Three nodes are
                   created dynamically and connected in a circular manner where
                   the last node points back to the head node. The program

@@ -3,7 +3,7 @@
 Program Name    : DeleteFirst() and DeleteLast() in Singly Circular Linked List 
 Program Number  : 014
 Description     : This program demonstrates the DeleteFirst() and DeleteLast()
-                  operations in a Singly Circular Linked List using Java.
+                  operations in a Singly Circular Linked List using Java. 
                   The program inserts nodes at both the beginning and end,
                   displays the list, deletes the first node, deletes the last
                   node, and updates the circular links along with the node count.

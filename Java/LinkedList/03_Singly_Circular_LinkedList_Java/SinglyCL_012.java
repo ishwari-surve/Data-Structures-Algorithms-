@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Display and Count Operations in Singly Circular Linked List
 Program Number  : 012
-Description     : This program demonstrates the Display() and Count()
+Description     : This program demonstrates the Display() and Count() 
                   operations in a Singly Circular Linked List using Java.
 
                   The Display() function traverses the circular linked

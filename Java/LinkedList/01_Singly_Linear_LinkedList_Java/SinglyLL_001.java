@@ -5,7 +5,7 @@ Program Name    : Singly Linear Linked List - Node Creation
 Program Number  : 001
 Description     : This program demonstrates the creation of a single node
                   for a Singly Linear Linked List in Java.
-                  A node object is created dynamically using the
+                  A node object is created dynamically using the 
                   'new' keyword. The data member is initialized with
                   an integer value, while the next reference is set
                   to null, indicating that the node is currently

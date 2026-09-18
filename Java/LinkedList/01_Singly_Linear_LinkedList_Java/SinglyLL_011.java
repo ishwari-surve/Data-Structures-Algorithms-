@@ -3,7 +3,7 @@
 Program Name    : Singly Linked List - InsertLast() Implementation 
 Program Number  : 011 (Java Version)
 Description     : This program demonstrates the implementation of
-                  InsertLast() in a Singly Linear Linked List. The
+                  InsertLast() in a Singly Linear Linked List. The 
                   operation traverses the linked list using a
                   temporary reference until the last node is found,
                   then links the newly created node at the end of

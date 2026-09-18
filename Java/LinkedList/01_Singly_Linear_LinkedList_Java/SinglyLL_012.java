@@ -6,7 +6,7 @@ Description     : This program demonstrates the implementation of
                   Display() and Count() operations in a Singly
                   Linear Linked List. Display() traverses the
                   linked list using a temporary reference and
-                  prints all the nodes sequentially, while Count()
+                  prints all the nodes sequentially, while Count() 
                   returns the total number of nodes maintained
                   by the iCount variable.
 

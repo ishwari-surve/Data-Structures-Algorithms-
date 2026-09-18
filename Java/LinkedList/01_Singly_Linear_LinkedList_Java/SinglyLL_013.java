@@ -2,7 +2,7 @@
 ================================================================================
 Program Name    : Singly Linked List - DeleteFirst() and DeleteLast() Operations
 Program Number  : 013 
-Description     : This program demonstrates the implementation of
+Description     : This program demonstrates the implementation of 
                   DeleteFirst() and DeleteLast() operations in a
                   Singly Linear Linked List. DeleteFirst() removes
                   the first node from the linked list, whereas

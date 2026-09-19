@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Stack - Display Operation
+Program Name    : Stack - Display Operation 
 Program Number  : 004
 File Name       : Stack_04.cpp
 Description     : This program demonstrates the Display() operation of a Stack

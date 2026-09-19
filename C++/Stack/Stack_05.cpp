@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Stack - Peep Operation
+Program Name    : Stack - Peep Operation 
 Program Number  : 05
 File Name       : Stack_05.cpp
 Description     : This program demonstrates the Peep() operation of a Stack

@@ -1,8 +1,7 @@
 /*
 =============================================================================== 
-
 Program Name    : Queue Complete Program
-Program Number  : 006
+Program Number  : 006 
 File Name       : Queue_06.cpp
 
 Description     : This program implements Enqueue, Dequeue, Display

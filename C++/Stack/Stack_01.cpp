@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Stack - Basic Structure
+Program Name    : Stack - Basic Structure 
 Program Number  : 01
 File Name       : Stack_01.cpp
 Description     : This program demonstrates the basic structure of a Stack

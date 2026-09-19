@@ -1,6 +1,6 @@
 ===============================================================================
 Program Name    : Stack - Complete Implementation
-Program Number  : 006
+Program Number  : 006 
 File Name       : Stack_06.cpp
 Description     : This program demonstrates the complete implementation of a
                   Stack using C++. It performs all fundamental Stack

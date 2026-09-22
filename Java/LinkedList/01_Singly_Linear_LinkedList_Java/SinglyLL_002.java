@@ -1,7 +1,7 @@
 /*
 ===============================================================================
 
-Program Name    : Singly Linear Linked List - Manual Node Linking
+Program Name    : Singly Linear Linked List - Manual Node Linking 
 Program Number  : 002
 Description     : This program demonstrates the manual creation and 
                   linking of multiple nodes in a Singly Linear Linked

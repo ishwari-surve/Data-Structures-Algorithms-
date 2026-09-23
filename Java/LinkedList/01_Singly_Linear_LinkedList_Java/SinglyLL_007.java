@@ -2,7 +2,7 @@
 ================================================================================ 
 Program Name : Singly Linear Linked List - Parameterized Constructor
 Program Number  : 007 
-Description     : This program demonstrates the use of a
+Description     : This program demonstrates the use of a 
                   parameterized constructor to initialize
                   the data and next reference of a node 
                   automatically during object creation. 

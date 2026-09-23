@@ -2,7 +2,7 @@
 ================================================================================
 Program Name    : Singly Linked List - Complete Menu Driven Implementation
 Program Number  : 014 (Java Version)
-Description     : This program demonstrates the complete implementation
+Description     : This program demonstrates the complete implementation 
                   of a Singly Linear Linked List using Java. It 
                   integrates all insertion, deletion, display, and
                   count operations through a menu-driven interface.

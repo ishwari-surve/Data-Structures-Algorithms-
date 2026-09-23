@@ -5,7 +5,6 @@ Program Number  : 010
 Description     : This program demonstrates the implementation of 
                   InsertFirst() with automatic node count
                   maintenance using iCount. 
-
                   Every successful insertion increments the
                   counter, allowing Count() to return the total
                   number of nodes in constant time O(1).

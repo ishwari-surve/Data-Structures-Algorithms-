@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Singly Linear Linked List - Accessing Node Data
+Program Name    : Singly Linear Linked List - Accessing Node Data 
 Program Number  : 003  
 Description     : This program demonstrates how to access the data
                   stored in individual nodes of a Singly Linear

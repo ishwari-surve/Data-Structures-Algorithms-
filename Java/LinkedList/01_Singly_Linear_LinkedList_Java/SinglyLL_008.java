@@ -2,7 +2,7 @@
 =============================================================================== 
 Program Name : Singly Linear Linked List - Linked List Class Initialization
 Program Number  : 008
-Description     : This program demonstrates how to create a
+Description     : This program demonstrates how to create a 
                   separate SinglyLL class to represent a 
                   Singly Linear Linked List in Java.
 

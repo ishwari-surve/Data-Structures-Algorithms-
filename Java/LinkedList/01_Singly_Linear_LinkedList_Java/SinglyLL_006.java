@@ -6,7 +6,7 @@ Description     : This program demonstrates traversal of a Singly
                   Linear Linked List using a while loop. 
                   Three node objects are created manually, linked 
                   together using next references, and displayed by
-                  traversing the list with a temporary reference.
+                  traversing the list with a temporary reference. 
 Date            : July 2026
 Language        : Java
 Author          : Ishwari Vijaykumar Surve

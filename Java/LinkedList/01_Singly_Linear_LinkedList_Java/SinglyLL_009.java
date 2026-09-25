@@ -4,7 +4,7 @@ Program Name    : Singly Linear Linked List - InsertFirst() and InsertLast()
 Program Number  : 009
 Description     : This program demonstrates the implementation of  
                   InsertFirst() and InsertLast() operations in a
-                  Singly Linear Linked List using Java.
+                  Singly Linear Linked List using Java. 
 
                   The linked list is implemented using an
                   object-oriented approach where all data members

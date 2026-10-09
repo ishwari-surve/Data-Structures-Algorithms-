@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Program Name    : Doubly Linear Linked List - Node Structure
+Program Name    : Doubly Linear Linked List - Node Structure 
 Program Number  : 001
 Description     : This program demonstrates the basic node structure of a
                   Doubly Linear Linked List. Each node contains three members:

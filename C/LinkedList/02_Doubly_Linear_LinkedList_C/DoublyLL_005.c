@@ -3,7 +3,7 @@
 Program Name    : Doubly Linear Linked List - Display with Enhanced Formatting
 Program Number  : 005
 Description     : This program demonstrates the implementation of InsertFirst() 
-                  and InsertLast() operations in a Doubly Linear Linked List. 
+                  and InsertLast() operations in a Doubly Linear Linked List.  
                   It explains how both next and prev pointers are maintained 
                   while inserting nodes at the beginning and end of the list.
                   The program also includes Display() and Count() 

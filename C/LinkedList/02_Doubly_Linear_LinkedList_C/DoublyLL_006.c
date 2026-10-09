@@ -1,7 +1,7 @@
 /*
 ================================================================================
 Program Name    : Doubly Linear Linked List - Complete Display and Count
-Program Number  : 006
+Program Number  : 006 
 Description     : This program implements complete doubly linked list with all
                   core functions: InsertFirst(), InsertLast(), Display(), and
                   Count(). Demonstrates the complete implementation of basic 

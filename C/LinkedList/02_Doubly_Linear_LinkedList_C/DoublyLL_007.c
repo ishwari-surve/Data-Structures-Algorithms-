@@ -2,7 +2,7 @@
 ================================================================================ 
 Program Name    : Doubly Linear Linked List - DeleteFirst Operation
 Program Number  : 007 
-Description     : This program demonstrates the implementation of the
+Description     : This program demonstrates the implementation of the 
                   DeleteFirst() operation in a Doubly Linear Linked List.
                   It performs insertion at both the beginning and end of
                   the list, displays the elements, deletes the first node,

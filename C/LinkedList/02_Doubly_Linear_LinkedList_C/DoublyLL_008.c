@@ -2,8 +2,8 @@
 ================================================================================ 
 Program Name    : Doubly Linear Linked List - DeleteLast Operation
 Program Number  : 008
-Description     : This program extends the Doubly Linear Linked List by
-                  implementing the DeleteLast() operation. It demonstrates
+Description     : This program extends the Doubly Linear Linked List by 
+                  implementing the DeleteLast() operation. It demonstrates 
                   insertion at both ends of the list, deletion of the first
                   node followed by deletion of the last node while maintaining
                   correct forward and backward links between all remaining nodes.

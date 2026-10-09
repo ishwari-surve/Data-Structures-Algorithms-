@@ -1,7 +1,7 @@
 /*
 ================================================================================
 Program Name    : Doubly Linear Linked List - Function Prototypes
-Program Number  : 002
+Program Number  : 002 
 Description     : This program creates the basic skeleton of a Doubly Linear
                   Linked List. It defines all major linked list operations
                   including insertion, deletion, display, and count functions.

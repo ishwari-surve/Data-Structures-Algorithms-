@@ -4,7 +4,7 @@ Program Name    : Doubly Linear Linked List - Position Validation Framework
 Program Number  : 009
 Description     : This program extends the Doubly Linear Linked List by
                   introducing position validation for InsertAtPos() and
-                  DeleteAtPos() operations. The program verifies whether
+                  DeleteAtPos() operations. The program verifies whether 
                   the given position is valid before performing insertion
                   or deletion. The actual position-based operations will
                   be implemented in the subsequent programs.

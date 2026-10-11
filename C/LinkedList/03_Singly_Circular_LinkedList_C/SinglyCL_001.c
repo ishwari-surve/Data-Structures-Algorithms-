@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Singly Circular Linked List - Node Structure and Memory Size
 Program Number  : 001
-Description     : This program introduces the basic node structure used in a
+Description     : This program introduces the basic node structure used in a 
                   Singly Circular Linked List. It demonstrates how a
                   self-referential structure is created and displays the
                   memory occupied by a single node using the sizeof operator.

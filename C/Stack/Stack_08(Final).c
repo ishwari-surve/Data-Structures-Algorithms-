@@ -7,7 +7,7 @@ Description     : This program demonstrates a menu-driven implementation of
                   Stack using C. It allows the user to perform Push(),
                   Pop(), Peep(), Display(), and Count() operations
                   interactively while following the Last-In-First-Out
-                  (LIFO) principle.
+                  (LIFO) principle. 
 
 Date            : August 2026
 Language        : C

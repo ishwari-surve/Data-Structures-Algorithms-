@@ -1,6 +1,6 @@
 /*
 =============================================================================== 
-Program Name    : Singly Linked List - Dynamic Memory Allocation
+Program Name    : Singly Linked List - Dynamic Memory Allocation 
 Program Number  : 002
 Description     : This program demonstrates how to create a node dynamically
                   using the new operator. It initializes the node members,

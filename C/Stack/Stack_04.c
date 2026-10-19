@@ -1,7 +1,7 @@
 /*
 ===============================================================================
 Program Name    : Stack - Display Operation
-Program Number  : 004
+Program Number  : 004 
 File Name       : Stack_04.c
 Description     : This program demonstrates the Display() operation of a
                   Stack using C. The Display operation traverses the Stack

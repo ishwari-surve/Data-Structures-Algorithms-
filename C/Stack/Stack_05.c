@@ -9,7 +9,7 @@ Description     : This program demonstrates the Peep() operation of a Stack
                   the Last-In-First-Out (LIFO) principle.
 
 Date            : August 2026
-Language        : C
+Language        : C 
 Author          : Ishwari Vijaykumar Surve
 ===============================================================================
 

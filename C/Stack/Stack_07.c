@@ -9,7 +9,7 @@ Description     : This program demonstrates the complete implementation of a
                   and Count() while following the Last-In-First-Out (LIFO)
                   principle.
 
-Date            : August 2026
+Date            : August 2026 
 Language        : C
 Author          : Ishwari Vijaykumar Surve
 ===============================================================================

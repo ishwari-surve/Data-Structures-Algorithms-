@@ -5,7 +5,7 @@ Program Number  : 006
 Description     : This program demonstrates the concept of Data Hiding by
                   declaring the linked list data members as private.
                   Attempting to access these members directly from outside
-                  the class results in compilation errors, thereby ensuring
+                  the class results in compilation errors, thereby ensuring 
                   data protection and encapsulation.
 Date            : July 2026
 Language        : C++

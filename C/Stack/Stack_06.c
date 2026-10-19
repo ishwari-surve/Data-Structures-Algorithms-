@@ -5,7 +5,7 @@ Program Number  : 006
 File Name       : Stack_06.c
 Description     : This program demonstrates the Count() operation of a Stack
                   using C. The Count operation traverses the Stack and
-                  returns the total number of elements currently present
+                  returns the total number of elements currently present 
                   in the Stack.
 
 Date            : August 2026

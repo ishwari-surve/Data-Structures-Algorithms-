@@ -9,7 +9,7 @@ Description     : This program demonstrates the basic structure of a Stack
                   operations.
 
 Date            : August 2026
-Language        : C
+Language        : C 
 Author          : Ishwari Vijaykumar Surve
 ===============================================================================
 

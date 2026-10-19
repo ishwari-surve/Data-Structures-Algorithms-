@@ -5,7 +5,7 @@ Program Number  : 003
 File Name       : Stack_03.c
 Description     : This program demonstrates the Pop() operation of a Stack
                   using C. The Pop operation removes the topmost element
-                  from the Stack following the LIFO principle.
+                  from the Stack following the LIFO principle. 
 
 Date            : August 2026
 Language        : C

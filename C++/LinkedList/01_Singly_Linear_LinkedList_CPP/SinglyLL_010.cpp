@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : InsertFirst Operation in Singly Linked List
 Program Number  : 010 
-Description     : This program demonstrates the InsertFirst() operation of a
+Description     : This program demonstrates the InsertFirst() operation of a 
                   Singly Linked List. A new node is dynamically allocated
                   using the new operator and inserted at the beginning of
                   the linked list. The node counter (iCount) is updated

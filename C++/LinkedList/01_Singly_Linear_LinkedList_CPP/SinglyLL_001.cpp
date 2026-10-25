@@ -5,7 +5,7 @@ Program Number  : 001
 Description     : This program introduces the basic node structure used in a
                   Singly Linear Linked List. It demonstrates how a self-
                   referential structure is created and displays the memory
-                  occupied by a single node using the sizeof operator.
+                  occupied by a single node using the sizeof operator. 
 
 Date            : July 2026
 Language        : C++

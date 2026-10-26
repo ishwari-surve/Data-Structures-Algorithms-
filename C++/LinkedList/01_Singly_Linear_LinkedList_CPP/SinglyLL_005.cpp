@@ -12,7 +12,7 @@ Language        : C++
 Author          : Ishwari Vijaykumar Surve
 ===============================================================================
 
-Concepts Used:
+Concepts Used: 
 1. Object-Oriented Programming (OOP)
 2. Class and Object
 3. Constructor

@@ -6,7 +6,7 @@ Description     : This program demonstrates the Display() operation of a
                   Singly Linked List. The Display() function traverses the
                   linked list from the first node and prints all the node
                   elements. Since no nodes are inserted, the linked list
-                  remains empty and only NULL is displayed.
+                  remains empty and only NULL is displayed. 
 Date            : July 2026
 Language        : C++
 Author          : Ishwari Vijaykumar Surve

@@ -15,7 +15,7 @@ Concepts Used:
 1. Class
 2. Object-Oriented Programming (OOP)
 3. Self-Referential Class
-4. Dynamic Memory Allocation using new
+4. Dynamic Memory Allocation using new 
 5. Pointer Manipulation
 6. Constructor
 

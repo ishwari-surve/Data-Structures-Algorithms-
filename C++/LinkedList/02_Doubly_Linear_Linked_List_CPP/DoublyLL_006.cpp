@@ -3,7 +3,7 @@
 Program Name    : Doubly Linear Linked List - InsertLast()
 Program Number  : 006
 File Name       : DoublyLL_06.cpp
-Description     : This program demonstrates how to insert a new node at the
+Description     : This program demonstrates how to insert a new node at the 
                   end of a Doubly Linear Linked List using C++.
 
 Date            : July 2026

@@ -7,7 +7,7 @@ Description     : This program demonstrates how to delete the first node
                   from a Doubly Linear Linked List using C++.
 
 Date            : July 2026
-Language        : C++
+Language        : C++ 
 Author          : Ishwari Vijaykumar Surve
 ===============================================================================
 

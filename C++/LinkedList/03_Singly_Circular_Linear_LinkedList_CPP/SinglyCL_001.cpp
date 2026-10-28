@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Singly Circular Linked List - Node Structure and Memory Size
+Program Name    : Singly Circular Linked List - Node Structure and Memory Size 
 Program Number  : 001
 Description     : This program introduces the basic node structure used in a
                   Singly Circular Linked List. It demonstrates how a self-

@@ -5,7 +5,7 @@ Program Number  : 004
 Description     : This program demonstrates the creation of a Singly Circular
                   Linked List using three dynamically allocated nodes. The
                   last node is connected back to the first node, forming a
-                  circular linked list. It also displays the data stored in
+                  circular linked list. It also displays the data stored in 
                   each node along with the addresses stored in their next
                   pointers.
 

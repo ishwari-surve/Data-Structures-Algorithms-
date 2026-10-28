@@ -2,7 +2,7 @@
 ===============================================================================
 Program Name    : Singly Circular Linked List - Creation of Three Nodes
 Program Number  : 003
-Description     : This program demonstrates the creation of three nodes using
+Description     : This program demonstrates the creation of three nodes using 
                   dynamic memory allocation. The nodes are connected in a
                   circular manner where the last node points back to the
                   first node, forming a Singly Circular Linked List.

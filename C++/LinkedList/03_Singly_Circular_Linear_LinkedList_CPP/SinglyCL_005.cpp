@@ -3,7 +3,7 @@
 Program Name    : Singly Circular Linked List - Manual Traversal
 Program Number  : 005
 Description     : This program demonstrates how to traverse a Singly Circular
-                  Linked List manually using a temporary pointer. It shows how
+                  Linked List manually using a temporary pointer. It shows how 
                   the pointer moves from one node to the next and finally
                   returns back to the first node.
 

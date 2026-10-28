@@ -3,7 +3,7 @@
 Program Name    : Singly Circular Linked List - Traversal using do-while Loop
 Program Number  : 006
 Description     : This program demonstrates how to traverse a Singly Circular
-                  Linked List using a do-while loop. Since the last node points
+                  Linked List using a do-while loop. Since the last node points 
                   back to the first node, traversal continues until the first
                   node is encountered again.
 

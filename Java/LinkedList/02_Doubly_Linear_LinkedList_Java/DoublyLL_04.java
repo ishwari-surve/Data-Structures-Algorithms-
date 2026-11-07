@@ -4,7 +4,7 @@ Program Name    : Doubly Linear Linked List - Display()
 Program Number  : 004
 File Name       : DoublyLL_04.java
 Description     : This program demonstrates how to display all the nodes of a
-                  Doubly Linear Linked List from first to last.
+                  Doubly Linear Linked List from first to last. 
 
 Date            : July 2026
 Language        : Java

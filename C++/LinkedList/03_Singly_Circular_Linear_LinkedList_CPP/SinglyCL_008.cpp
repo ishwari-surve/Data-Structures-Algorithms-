@@ -4,7 +4,7 @@ Program Name    : Singly Circular Linked List - Basic Class Skeleton
 Program Number  : 008
 Description     : This program creates the basic Singly Circular Linked List
                   class. It contains the required data members and declares
-                  all major member functions that will be implemented in the
+                  all major member functions that will be implemented in the 
                   upcoming programs.
 
 Date            : July 2026

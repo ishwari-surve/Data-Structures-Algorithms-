@@ -4,7 +4,7 @@ Program Name    : Doubly Linear Linked List - Count()
 Program Number  : 005
 File Name       : DoublyLL_05.java
 Description     : This program demonstrates how to count the total number of
-                  nodes present in a Doubly Linear Linked List.
+                  nodes present in a Doubly Linear Linked List. 
 
 Date            : July 2026
 Language        : Java

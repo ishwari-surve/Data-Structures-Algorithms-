@@ -3,7 +3,7 @@
 Program Name    : Doubly Linear Linked List - InsertFirst()
 Program Number  : 003
 File Name       : DoublyLL_03.java
-Description     : This program demonstrates how to insert a new node at the
+Description     : This program demonstrates how to insert a new node at the 
                   beginning of a Doubly Linear Linked List.
 
 Date            : July 2026

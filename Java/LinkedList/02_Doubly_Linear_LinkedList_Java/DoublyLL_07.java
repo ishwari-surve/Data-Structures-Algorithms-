@@ -3,7 +3,7 @@
 Program Name    : Doubly Linear Linked List - DeleteFirst()
 Program Number  : 007
 File Name       : DoublyLL_07.java
-Description     : This program demonstrates how to delete the first node from
+Description     : This program demonstrates how to delete the first node from 
                   a Doubly Linear Linked List.
 
 Date            : July 2026

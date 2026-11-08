@@ -3,7 +3,7 @@
 Program Name    : Doubly Circular Linked List - Skeleton Program
 Program Number  : 002
 File Name       : DoublyCL_02.java
-Description     : This program demonstrates the basic skeleton of a Doubly
+Description     : This program demonstrates the basic skeleton of a Doubly 
                   Circular Linked List using Java. It initializes the linked
                   list with first, last, and node count.
 

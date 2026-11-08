@@ -8,7 +8,7 @@ Description     : This program demonstrates how to delete the last node from
 
 Date            : July 2026
 Language        : Java
-Author          : Ishwari Vijaykumar Surve
+Author          : Ishwari Vijaykumar Surve 
 ===============================================================================
 
 Concepts Used:

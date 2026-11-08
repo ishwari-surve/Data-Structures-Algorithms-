@@ -379,7 +379,7 @@ InsertFirst()  : O(1)
 
 InsertLast()   : O(1)
 
-InsertAtPos()  : O(n)
+InsertAtPos()  : O(n) 
 
 DeleteFirst()  : O(1)
 

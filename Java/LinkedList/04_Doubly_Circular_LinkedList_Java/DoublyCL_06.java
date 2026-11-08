@@ -5,7 +5,7 @@ Program Number  : 006
 File Name       : DoublyCL_06.java
 Description     : This program demonstrates how to insert a new node at the
                   end of a Doubly Circular Linked List while maintaining the
-                  circular and doubly linked properties.
+                  circular and doubly linked properties. 
 
 Date            : July 2026
 Language        : Java

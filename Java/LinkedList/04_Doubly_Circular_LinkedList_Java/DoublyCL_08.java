@@ -3,7 +3,7 @@
 Program Name    : Doubly Circular Linked List - DeleteLast()
 Program Number  : 008
 File Name       : DoublyCL_08.java
-Description     : This program demonstrates how to delete the last node from
+Description     : This program demonstrates how to delete the last node from 
                   a Doubly Circular Linked List while maintaining the circular
                   and doubly linked properties.
 

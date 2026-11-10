@@ -17,7 +17,7 @@ Concepts Used:
 1. Structure
 2. Self-Referential Structure
 3. Pointer
-4. Binary Search Tree (BST)
+4. Binary Search Tree (BST) 
 5. Recursion
 6. Tree Traversal
 

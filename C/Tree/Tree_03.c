@@ -20,7 +20,7 @@ Concepts Used:
 3. Pointer
 4. Binary Search Tree (BST)
 5. Recursion
-6. Tree Traversal
+6. Tree Traversal 
 
 Key Learning Points:
 - Understand Inorder Traversal (LDR).

@@ -4,7 +4,7 @@ Program Name    : Binary Tree - Search Operation
 Program Number  : 008
 File Name       : Tree_08.c
 Description     : This program demonstrates the Search() operation of a
-                  Binary Search Tree (BST) using C. The Search() function
+                  Binary Search Tree (BST) using C. The Search() function 
                   traverses the tree based on the Binary Search Tree
                   property and determines whether the specified element
                   is present or not.

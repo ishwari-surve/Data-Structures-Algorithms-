@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Doubly Circular Linked List - Skeleton Program
+Program Name    : Doubly Circular Linked List - Skeleton Program 
 Program Number  : 002
 Description     : This program provides the basic skeleton for implementing a
                   Doubly Circular Linked List. It contains the node structure,

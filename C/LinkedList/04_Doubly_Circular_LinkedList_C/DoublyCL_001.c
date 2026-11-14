@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Doubly Circular Linked List - Node Structure and Memory Size
+Program Name    : Doubly Circular Linked List - Node Structure and Memory Size 
 Program Number  : 001
 Description     : This program introduces the basic node structure used in a
                   Doubly Circular Linked List. It demonstrates the creation 

@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Program Name    : Doubly Circular Linked List - DeleteLast()
+Program Name    : Doubly Circular Linked List - DeleteLast() 
 Program Number  : 008
 Description     : This program demonstrates how to delete the last node from
                   a Doubly Circular Linked List while maintaining the circular

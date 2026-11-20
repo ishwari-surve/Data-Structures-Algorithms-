@@ -47,14 +47,14 @@ typedef struct node **PPNODE;
 //
 // Function Name : InsertFirst
 // Description   : Inserts a new node at the beginning.
-//
+// 
 ///////////////////////////////////////////////////////////////////////////////
 
 void InsertFirst(PPNODE first, PPNODE last, int iNo)
 {
     PNODE newn = NULL;
 
-    newn = (PNODE)malloc(sizeof(NODE));
+    newn = (PNODE)malloc(sizeof(NODE)); 
 
     newn->data = iNo;
     newn->next = NULL;

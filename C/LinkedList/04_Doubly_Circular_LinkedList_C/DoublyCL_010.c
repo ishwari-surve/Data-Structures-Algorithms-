@@ -218,7 +218,7 @@ void DeleteAtPos(PPNODE first, PPNODE last, int iPos)
 
 int main()
 {
-    PNODE head = NULL;
+   PNODE head = NULL;
     PNODE tail = NULL;
 
     int iRet = 0;

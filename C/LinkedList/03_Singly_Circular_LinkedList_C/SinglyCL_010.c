@@ -14,7 +14,7 @@ Author          : Ishwari Vijaykumar Surve
 
 Concepts Used:
 1. Structure
-2. Self-Referential Structure
+2. Self-Referential Structure 
 3. Circular Linked List
 4. Dynamic Memory Allocation
 5. Pointer Manipulation

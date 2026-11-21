@@ -18,7 +18,6 @@ Concepts Used:
 4. Dynamic Memory Allocation
 5. Pointer Manipulation
 6. Memory Deallocation using free()
-
 Key Learning Points:
 - Handles empty linked list.
 - Handles single-node linked list.

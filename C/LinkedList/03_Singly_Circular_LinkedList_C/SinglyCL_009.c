@@ -104,6 +104,11 @@ void InsertFirst(PPNODE first, PPNODE last, int iNo)
 
     newn->data = iNo;
     newn->next = NULL;
+    if(newn == NULL)
+    {
+    printf("Memory allocation failed.\n");
+    return;
+    }
 
     if(*first == NULL && *last == NULL)
     {
